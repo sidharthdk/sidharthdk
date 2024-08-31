@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sidharthdk
+- 👋 Hi, I’m sidharth
 - 👀 I’m interested in ML, Data Science, DL
 - 🌱 I’m currently learning big data computing, responsive web design
 - 💞️ I’m looking to collaborate on ...
