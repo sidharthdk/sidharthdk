@@ -1,7 +1,7 @@
 - 👋 Hi, I’m sidharth
 - 👀 I’m interested in QML, Data Science, DL
 - 🌱 I’m currently learning Quantum computing, ML, DL, responsive web design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Quantum ML, ML, DL, GENAI, MCP projets
 - 📫 How to reach me through my linkedin profile: https://www.linkedin.com/in/sidharth-dk/
 - ⚡ Fun fact: Humans use their brain to do a lot of things, but did you know that they also use their brain to do a lot of nothing?
 
